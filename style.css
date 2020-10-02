@@ -99,7 +99,7 @@ nav{
 }
 .controls{
   position: absolute;
-  right: 10%;
+  right: 5%;
   top: 50%;
   transform: translateY(-50%);
   text-align: center;
@@ -109,11 +109,11 @@ nav{
   color: #fff;
 }
 #upBtn{
-  width: 15px;
+  width: 30px;
   cursor: pointer;
 }
 #downBtn{
-  width: 15px;
+  width: 30px;
   cursor: pointer;
   transform: rotate(180deg);
 }
@@ -127,4 +127,12 @@ nav{
   position: absolute;
   left: 0;
   top: 0;
+}
+
+
+
+
+  
+  
+  
 }
